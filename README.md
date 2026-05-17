@@ -10,3 +10,9 @@ This repository is dedicated to my old Lua script for the online game Cubic Sand
 - Launch Game Guardian, then Cubic Sandbox. Then run the script (there are also plenty of tutorials on YouTube on how to do this).
 
 Please note that some features may no longer work as well.
+
+# Screenshots
+<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/15a841ec-d883-4065-8a15-7b96dcf71ae0" />
+<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/718c1695-57cd-4cc3-9ebf-7e0ff51c6939" />
+<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/45eb31b3-6e33-428d-a033-200f57a7d053" />
+<img width="1280" height="591" alt="image" src="https://github.com/user-attachments/assets/b7fd5743-2cec-4789-b413-473fb1e73839" />
